@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 hello == 1
 this is ;
+=======
+hello
+this is (if )
+>>>>>>> origin/diverge
 a file which is {
-
+3 +4 
 going to be cool
 5 +5 
 }
+
+very cool
